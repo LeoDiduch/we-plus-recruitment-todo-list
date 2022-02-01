@@ -23,4 +23,4 @@ You can create todo, you can update and deleted todo with buttons located to rig
 If you want mark done todo just click on todo card.
 
 
-####App Dev by Léo Diduch - recruitment test for WePlus/Quadra Informatique
+#### App Dev by Léo Diduch - recruitment test for WePlus/Quadra Informatique
